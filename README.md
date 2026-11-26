@@ -39,7 +39,7 @@ Mail: qupix.dev@proton.me<br>
 <table>
 	<tr>
 		<td width="50%" valign="top">
-			<h3><a href="https://github.com/TheOneOh1/blackbox-lite">Archopy</a></h3>
+			<h3><a href="https://github.com/qupixs/Archopy">Archopy</a></h3>
 			<p>Windows customiseable homescreen; widgets, spotify, time and snapping.</p>
 			<p>
 				<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
